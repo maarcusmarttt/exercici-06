@@ -14,9 +14,14 @@ h1 {
   padding: 1rem;
 }
 /* ===== FASE 1: subgrid ===== */
+.grid-container-2 {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem;
+}
 
 
 /* ===== FASE 2: grid principal ===== */
 
 
-/* ===== ADVANCED ===== */ 
+/* ===== ADVANCED ===== */
