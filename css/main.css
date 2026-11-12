@@ -36,3 +36,7 @@ h1 {
 
 
 /* ===== ADVANCED ===== */
+/* ===== ADVANCED ===== */ 
+.item-4 {
+  align-self: end;
+}
